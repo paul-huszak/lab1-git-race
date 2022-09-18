@@ -15,4 +15,3 @@ user name | NIA | GitHub Action |Score
 ----------|-----|---------------|-----
 [UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race) |30246 | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml)
 [paul-huszak](https://github.com/paul-huszak/lab1-git-race) |759934 | [![Build Status](https://github.com/paul-huszak/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/paul-huszak/lab1-git-race/actions/workflows/ci.yml)
-(https://travis-ci.org/paul-huszak/lab1-git-race)
