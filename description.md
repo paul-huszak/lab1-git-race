@@ -21,7 +21,7 @@ In this project there are plugins added for [Kotlin](https://github.com/JetBrain
 ### Repositories
 
 In this section the repository for solving dependencies is declared.  
-In our case, `mavenCentral()` specifies that the [Maven Central public repository](https://repo.maven.apache.org/maven2/) will be used to solve dependencies.
+In our case, `mavenCentral()` specifies that the [Maven Central public repository](https://repo.maven.apache.org/maven2/) will be used to solve the dependencies.
 
 ### Dependencies
 
